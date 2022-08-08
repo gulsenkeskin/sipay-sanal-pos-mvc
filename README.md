@@ -1,2 +1,1 @@
-# sipay-sanal-pos-mvc
- 
+Sipay Sanal Pos 
