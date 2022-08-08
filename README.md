@@ -1,4 +1,4 @@
 Sipay Sanal Pos
 
 
-<img src='/1.gif' width:"1200" height"700"> 
+<img src='/1.gif' width="740" height="680"> 
